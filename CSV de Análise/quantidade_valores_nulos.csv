@@ -1,0 +1,70 @@
+Nome da Coluna,Quantidade de Valores Nulos
+AP_MVM,0, fica
+AP_CONDIC,0, excluir não faz sentido para a pesquisa
+AP_GESTAO,0, excluir não faz sentido para a pesquisa
+AP_CODUNI,0, fazer data set sobre unidades
+AP_AUTORIZ,0, excluir não faz sentido para a pesquisa
+AP_CMP,0, excluir mesmo que AP_MVM
+AP_PRIPAL,1573, fica e fazer dataset sobre unidade
+AP_VL_AP,0, fazer dataset sobre unidade
+AP_UFMUN,0, fazer dataset sobre unidade
+AP_TPUPS,0, fazer dataset sobre unidade
+AP_TIPPRE,0, fazer dataset sobre unidade
+AP_MN_IND,0, fazer dataset sobre unidade
+AP_CNPJCPF,103, fazer dataset sobre unidade
+AP_CNPJMNT,3854397, fazer dataset sobre unidade
+AP_CNSPCN,19213, fica e fazer dataset sobre unidade
+AP_COIDADE,0, excluir porque vou usar outro campo de idade
+AP_NUIDADE,0, fica
+AP_SEXO,0, fica
+AP_RACACOR,0, fica
+AP_MUNPCN,0, fica
+AP_UFNACIO,43, fica
+AP_CEPPCN,0, fazer dataset sobre unidade
+AP_UFDIF,0, fazer dataset sobre unidade
+AP_MNDIF,0, fazer dataset sobre unidade
+AP_DTINIC,0, fica
+AP_DTFIM,0, fica
+AP_TPATEN,0, fica
+AP_TPAPAC,0, fica
+AP_MOTSAI,0, fica
+AP_OBITO,0, fica
+AP_ENCERR,0, fica
+AP_PERMAN,0, fica
+AP_ALTA,0, fica
+AP_TRANSF,0, fica
+AP_CODEMI,0, excluir
+AP_CATEND,198201, fazer dataset sobre unidade
+AP_UNISOL,101708, fazer dataset sobre unidade
+AP_DTSOLIC,689855, fazer dataset sobre unidade
+AP_DTAUT,772617, fazer dataset sobre unidade
+AP_CIDCAS,0
+AP_CIDPRI,0
+AP_CIDSEC,0
+AQ_CID10,12281390, excluir masi de 80 porcentos 
+AQ_LINFIN,0, fica
+AQ_ESTADI,271, fica
+AQ_GRAHIS,9383, fica
+AQ_DTIDEN,0, fica
+AQ_TRANTE,0, fica
+AQ_CIDINI1,9066379, fica
+AQ_DTINI1,7798127, fica
+AQ_CIDINI2,12394286, fica
+AQ_DTINI2,11345486, fica
+AQ_CIDINI3,15709198, fica
+AQ_CONTTR,0, fica
+AQ_DTINTR,0, fica ver se é a mesma coisa que a data de aq_mvm
+AQ_ESQU_P1,6, fica
+AQ_TOTMPL,0, fica
+AQ_TOTMAU,0, fica
+AQ_ESQU_P2,5720075, fica
+AP_NATJUR,7765942, excluir
+AQ_MED01,14534395, excluir
+AQ_MED03,18408914, excluir
+AQ_MED04,18537926, excluir
+AQ_MED05,18561514, excluir
+AQ_MED06,18563071, excluir
+AQ_MED07,18563221, excluir
+AQ_MED08,18563229, excluir
+AQ_MED09,18563229, excluir
+CID_PRIN_FORMATADO,0, excluir
